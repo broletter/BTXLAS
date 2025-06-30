@@ -1,5 +1,5 @@
 
-# Nhập Môn Xử Lý Ảnh Số - Lab 2  
+# Nhập Môn Xử Lý Ảnh Số - Lab 1 
 ## **Biến Đổi Cường Độ Ảnh Grayscale & Phân Tích Bit-Plane**
 **Sinh viên thực hiện:** Hà Đại Vĩ
 **MSSV:** 2374802010551
