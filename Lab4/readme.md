@@ -1,7 +1,7 @@
 # Nhập Môn Xử Lý Ảnh Số - Lab 4  
 ## **Phân vùng ảnh**
 **Sinh viên thực hiện:** Hà Đại Vĩ 
-**MSSV:** 
+**MSSV:2374802010551** 
 **Môn học:** Nhập môn Xử lý ảnh số  
 **Giảng viên:** Đỗ Hữu Quân  
 
